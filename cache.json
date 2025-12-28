@@ -1,0 +1,63 @@
+{
+  "GET:/products/1": {
+    "id": 1,
+    "title": "Essence Mascara Lash Princess",
+    "description": "The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects. Achieve dramatic lashes with this long-lasting and cruelty-free formula.",
+    "category": "beauty",
+    "price": 9.99,
+    "discountPercentage": 10.48,
+    "rating": 2.56,
+    "stock": 99,
+    "tags": [
+      "beauty",
+      "mascara"
+    ],
+    "brand": "Essence",
+    "sku": "BEA-ESS-ESS-001",
+    "weight": 4,
+    "dimensions": {
+      "width": 15.14,
+      "height": 13.08,
+      "depth": 22.99
+    },
+    "warrantyInformation": "1 week warranty",
+    "shippingInformation": "Ships in 3-5 business days",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Would not recommend!",
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewerName": "Eleanor Collins",
+        "reviewerEmail": "eleanor.collins@x.dummyjson.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Very satisfied!",
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewerName": "Lucas Gordon",
+        "reviewerEmail": "lucas.gordon@x.dummyjson.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Highly impressed!",
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewerName": "Eleanor Collins",
+        "reviewerEmail": "eleanor.collins@x.dummyjson.com"
+      }
+    ],
+    "returnPolicy": "No return policy",
+    "minimumOrderQuantity": 48,
+    "meta": {
+      "createdAt": "2025-04-30T09:41:02.053Z",
+      "updatedAt": "2025-04-30T09:41:02.053Z",
+      "barcode": "5784719087687",
+      "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+    },
+    "images": [
+      "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/1.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/thumbnail.webp"
+  },
+  "GET:/favicon.ico": "\u0000\u0000\u0001\u0000\u0001\u0000\u0010\u0010\u0000\u0000\u0001\u0000 \u0000h\u0004\u0000\u0000\u0016\u0000\u0000\u0000(\u0000\u0000\u0000\u0010\u0000\u0000\u0000 \u0000\u0000\u0000\u0001\u0000 \u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000#.\u0000\u0000#.\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000���\u0000���\u0000���\u0000\u0000\u0000\u0000\u0000���3���������������������������6���\u0000���\u0000���\u0000���\u0000���\u0000���\u0000���\r���y���⵵��sss�III�999�@@@�jjj��������{���\r���\u0000���\u0000���\u0000���\u000e������������aaa�LLL�@@@�444�&&&�\u0017\u0017\u0017�!!!�����������\r���\u0000���\u0001�����������www�ggg�[[[�MMM�@@@�444�&&&�\u0019\u0019\u0019�\u0013\u0013\u0013��������|���\u0001���9����nnn�www�����ttt�hhh�������������SSS�(((�\u0019\u0019\u0019�   ��������6��������TTT�}}}��������������������������fff�'''�\u0017\u0017\u0017�kkk���������^^^�JJJ�������������������������������������JJJ�$$$�AAA���������DDD�>>>�������������������������������������uuu�222�;;;���������999�000�xxx�������������������������������������@@@�FFF���������>>>�\"\"\"�NNN�������������������������������������LLL�^^^���������fff�\u0015\u0015\u0015�'''�sss���������������������}}}�����~~~�WWW������������;����\u001b\u001b\u001b�\u0017\u0017\u0017�)))�\\\\\\����������eee�rrr��xxx�nnn��������A���\u0002����{{{�\u000e\u000e\u000e�\u0017\u0017\u0017�$$$�222�>>>�JJJ�XXX�eee�vvv����������������\u0003���\u0000���\u0011���zzz�\u0019\u0019\u0019�\u0015\u0015\u0015�$$$�222�>>>�III�^^^����������������\u0013���\u0000���\u0000���\u0000���\u0012��������]]]�666�222�@@@�iii����������������\u0012���\u0000���\u0000���\u0000���\u0000���\u0000���\u0003���B��������������������������@���\u0002���\u0000���\u0000���\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+}
